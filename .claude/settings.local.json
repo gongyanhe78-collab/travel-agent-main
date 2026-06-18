@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(streamlit cache *)",
+      "Bash(taskkill /F /IM python.exe)",
+      "Bash(taskkill /F /IM streamlit.exe)",
+      "Bash(taskkill /F /IM uvicorn.exe)"
+    ]
+  }
+}
